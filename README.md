@@ -13,3 +13,12 @@ flight computer. Compare simulated vs real flight data.
 ## Hardware
 - Rocket: BT-60 body tube, D12-5 motor
 - Flight computer: Arduino Nano, BMP388, MPU-6050, MicroSD logger
+
+## Status
+- [x] OpenRocket simulation Prototype complete — May 2026
+- [ ] Parts ordered
+- [ ] Physical rocket build
+- [ ] Electronics build and testing
+- [ ] Launch and data collection
+- [ ] Simulation vs real data analysis
+- [ ] Final write-up
