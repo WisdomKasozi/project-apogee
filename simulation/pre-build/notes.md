@@ -2,7 +2,7 @@
 
 Date: May 2026
 
-This simulation was completed before parts arrived.
+This simulation was completed before the parts arrived.
 Dimensions are based on standard BT-60 specs and planned 
 component dimensions. Weights are estimated.
 
@@ -13,7 +13,7 @@ component dimensions. Weights are estimated.
 - Motor: Estes D12-5
 - No warnings
 
-### What changes in as-built simulation
+### What changes in the built simulation
 - Actual measured component weights
 - Confirmed nose cone length
 - Confirmed body tube cut lengths
