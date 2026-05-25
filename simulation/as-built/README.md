@@ -19,6 +19,12 @@ than I thought. This made the rocket heavier overall.
 | Velocity off rod | 61.4 ft/s | 58.2 ft/s |
 | Total mass with motor | 193g | 218g |
 
+## Rocket Design
+![Simulation Results](https://i.imgur.com/bV0wjA3.png)
+
+## Simulation results
+![Rocket Design](https://i.imgur.com/scFUNPU.png)
+
 ## What I Learned
 
 Even though the rocket was heavier the apogee dropped from 
