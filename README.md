@@ -17,7 +17,7 @@ flight computer. Compare simulated vs real flight data.
 ## Status
 - [x] OpenRocket simulation Prototype complete — May 2026
 - [x] Parts ordered - May 2026
-- [ ] Parts arrived and simulation of real parts made
+- [x] Parts arrived and simulation of real parts made - May 2026
 - [ ] Physical rocket build
 - [ ] Electronics build and testing
 - [ ] Launch and data collection
