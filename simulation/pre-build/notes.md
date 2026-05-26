@@ -18,3 +18,6 @@ component dimensions. Weights are estimated.
 - Confirmed nose cone length
 - Confirmed body tube cut lengths
 - Electronics mass object added with real weight
+
+## Simulation Results
+![Simulation Results](https://imgur.com/pwaEYgw)
