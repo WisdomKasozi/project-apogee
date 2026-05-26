@@ -19,5 +19,5 @@ component dimensions. Weights are estimated.
 - Confirmed body tube cut lengths
 - Electronics mass object added with real weight
 
-## Simulation Results
-![Simulation Results](https://imgur.com/pwaEYgw)
+## Simulation
+![OG sim](https://i.imgur.com/pwaEYgw.png)
