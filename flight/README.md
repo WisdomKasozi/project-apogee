@@ -43,8 +43,8 @@ Every problem on this list was me not knowing something, then knowing it by the 
 
 ## 🔬 The One Finding I'm Proud Of
 
-When I dug intoमेरी raw data, the climb looked weird — compressed. I figured out why: **my electronics bay was sealed with no vent holes.** 
+When I dug into raw data, the climb looked weird — compressed. I figured out why: **my electronics bay was sealed with no vent holes.** 
 
-As the rocket shot up, the air pressure inside the sealed tube couldn't vent fast enough, causing the barometer to under-read the true altitude until the nose cone popped at ejection and the pressure suddenly equalized. Real flight computers drill tiny static ports in the tube wall to fix exactly this. Nobody told me that was the problem — I found it in my own numbers. 
+As the rocket shot up, the air pressure inside the sealed tube couldn't vent fast enough, causing the barometer to under-read the true altitude until the nose cone popped at ejection and the pressure suddenly equalized. Real flight computers drill tiny static ports in the tube wall to fix exactly this. Nobody told me that was the problem; I found it in my own numbers. 
 
 That's the moment this stopped being a craft project and started being engineering.
