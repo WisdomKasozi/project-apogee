@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/983bd2c0-dfa4-47d3-a71d-dd3da62e9ee9
+
 # Project Apogee 
 
 I built a rocket from cardboard tubes and balsa wood, put a flight computer I coded myself inside it, launched it on an Estes D12-5, and got the data back. This is the story of that.
