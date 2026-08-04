@@ -10,7 +10,7 @@ I built a rocket from cardboard tubes and balsa wood, put a flight computer I co
 * **Peak Acceleration:** ~6 G (~59.8 m/s² off the pad).
 * **Data Integrity:** Over 25,000 samples logged at ~21 Hz on an intact SD card capturing boost, apogee, ejection, and recovery.
 
-That number, 436 feet, is mine. I didn't read it off a kit box. I measured it with a sensor I wired up and code I wrote, on a rocket I built with my own hands.
+Why the sim and the flight don't match: two reasons. First, my final OpenRocket run was done before I added the power bank and avionics sled — the rocket flew heavier than I simulated, and more mass means less altitude on the same motor. Second, the sealed-bay pressure lag (see below) means my measured 436 ft is likely an under-read of the true apogee anyway. So the real gap is smaller than the raw numbers suggest, and it's split between a rocket that flew heavier than modeled and an altimeter that read low. A cleaner comparison needs a re-run sim at true flight mass and vented static ports — both on the list.
 
 ---
 
